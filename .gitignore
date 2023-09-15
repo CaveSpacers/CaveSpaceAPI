@@ -3,3 +3,7 @@
 /CaveSpaceAPI/.idea/
 .idea
 .git
+node_modules/
+/test/test-results/
+/test/playwright-report/
+/playwright/.cache/
