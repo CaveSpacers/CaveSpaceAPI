@@ -4,6 +4,5 @@
 .idea
 .git
 node_modules/
-/test/test-results/
-/test/playwright-report/
-/playwright/.cache/
+/test-results/
+/playwright-report/
